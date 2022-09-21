@@ -1,0 +1,16 @@
+body{
+    background-color: #2e70d2;
+    color: white;
+    font-family: "Comic Sans MS";
+    background-image: url(wallpaper.png);
+    background-size: cover;
+}
+
+h1,p{
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+    letter-spacing: 5px;
+}
